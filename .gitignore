@@ -2,5 +2,5 @@
 package-lock.json
 hits
 .env
-/build/
-/dist/
+build
+dist
