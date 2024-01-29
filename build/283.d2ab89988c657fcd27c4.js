@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_config=self.webpackChunkwebpack_config||[]).push([[283],{283:(e,c,n)=>{n.r(c),n.d(c,{default:()=>t});const t=function(){return React.createElement("h1",null,"About")}}}]);
+//# sourceMappingURL=283.d2ab89988c657fcd27c4.js.map
