@@ -1,1 +1,0 @@
-{"version":3,"file":"283.d2ab89988c657fcd27c4.js","mappings":"4IAUA,QARkB,WAGhB,OACIA,MAAAC,cAAA,UAAI,QAEV,C","sources":["webpack://webpack-config/./src/pages/About/AboutPage.tsx"],"sourcesContent":["\r\n\r\nconst AboutPage = () => {\r\n\r\n\r\n  return (\r\n      <h1>About</h1>\r\n  );\r\n};\r\n\r\nexport default AboutPage;"],"names":["React","createElement"],"sourceRoot":""}

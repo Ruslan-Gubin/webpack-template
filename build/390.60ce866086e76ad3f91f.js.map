@@ -1,1 +1,0 @@
-{"version":3,"file":"390.60ce866086e76ad3f91f.js","mappings":"4IASA,QAPiB,WAEf,OACIA,MAAAC,cAAA,UAAI,WAEV,C","sources":["webpack://webpack-config/./src/pages/ShopPage/ShopPage.tsx"],"sourcesContent":["\r\n\r\nconst ShopPage = () => {\r\n\r\n  return (\r\n      <h1>ShopPage</h1>\r\n  );\r\n};\r\n\r\nexport default ShopPage;"],"names":["React","createElement"],"sourceRoot":""}
